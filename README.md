@@ -1,7 +1,11 @@
-- 👋 Hi, I’m Abhishek Yadav
+# Hi there, I'm Abhishek Yadav 👋
+
+Welcome to my GitHub profile!
+
 - 👀 I’m interested in Computational Plasma Physics simulation.
-- 🌱 I’m currently learning Linux system and the Theoratical concepts of physics.
-- 📫 You can reach me by abhishek.yadav@cbs.ac.in
+- 🌱 I’m currently learning theoretical concepts of Plasma Physics.
+- </> Learning various programming languages such as Fortran, Python, C & C++ .
+- 📫 You can reach me at abhishek.yadav@cbs.ac.in
 
 <!---
 Abhi4phy/Abhi4phy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
